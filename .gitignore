@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build files
+dist/
+build/
+.vite/
+
+# OS
+.DS_Store
+
+# ML generated outputs
+geo_base/geo_base/outputs/
+geo_base/geo_base/webcam_frames/
